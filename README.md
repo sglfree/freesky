@@ -8,4 +8,4 @@
 <p>（3）<strong><a href="http://www.hitfreesky.tk/go/biology" target="_blank">视频:从分子生物学研究看生命的起源</a>；</strong></p>
 <p>（4）<strong><a href="http://www.hitfreesky.tk/go/discovery" target="_blank">探究史前文明之谜</a>；</strong></p>
 <p>（5）<strong><a href="http://www.hitfreesky.tk/go/moon" target="_blank">一轮明月是谁造？</a>；</strong></p>
-
+<p><strong><a href="http://gofree.ga/freesky" target="_blank">点此继续阅读更多……</a></strong></p>
