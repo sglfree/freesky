@@ -1,0 +1,3 @@
+<h2><font color='#993300'> 原项目已获GFW认证，请访问新主页》》》<a href='http://gofree.ga/freesky'> <a href='http://gofree.ga/freesky'>http://gofree.ga/freesky</a> </a></font></h2>
+<p>==========================================================================================================</p>
+<font color='blue' size='3'><strong>关注最新资源的同学请把网址：<font color='#993300'><a href='http://gofree.ga/freesky'>http://gofree.ga/freesky</a> </font>加入浏览器收藏夹以获取及时的更新。</strong></font>
