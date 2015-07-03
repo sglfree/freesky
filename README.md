@@ -1,6 +1,6 @@
-<h3><font color='#993300'> 原项目已从Google Code迁至Github，请访问主页--》<a href="http://leapb.zym9.net/" target="_blank"> 最新版翻墙软件下载</a></font></h3>
+<h3><font color="#993300"> 原项目已从Google Code迁至Github，请访问主页--》<a href="http://leapb.zym9.net/" target="_blank"> 最新版翻墙软件下载</a></font></h3>
 <p>===============================================================================</p>
-<font color='blue' size='3'><strong>关注最新资源的同学请把网址：<font color='#993300'><a href="http://gofree.ga/download">http://gofree.ga/download</a> </font>加入浏览器收藏夹以获取及时的更新。</strong></font>
+<font color="blue" size="3"><strong>关注最新资源的同学请把网址：<font color="#993300"><a href="http://gofree.ga/download" target="_blank">http://gofree.ga/download</a> </font>加入浏览器收藏夹以获取及时的更新。</strong></font>
 <p>===============================================================================</p>
 <p><strong>值得一读的文章</strong>：</p>
 <p>（i）<strong><a href="http://www.hitfreesky.tk/go/truth" target="_blank"> 视频：真相报道（一）</a>；</strong></p>
