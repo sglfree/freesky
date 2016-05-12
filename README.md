@@ -1,4 +1,4 @@
-<h3><font color="#993300"> 原项目已从Google Code迁至Github，请访问主页--》<a href="http://leapc.zym9.net/" target="_blank"> 最新版翻墙软件下载</a></font></h3>
+<h3><font color="#993300"> 原项目已从Google Code迁至Github，请访问主页--》<a href="http://leapd.zym9.net/" target="_blank"> 最新版翻墙软件下载</a></font></h3>
 <p>===============================================================================</p>
 <font color="blue" size="3"><strong>关注最新资源的同学请把网址：<font color="#993300"><a href="http://dofree.ga/download" target="_blank">http://dofree.ga/download</a> </font>加入浏览器收藏夹以获取及时的更新。</strong></font>
 <p>===============================================================================</p>
