@@ -1,4 +1,4 @@
-<h3><font color="#993300"> 原项目已从Google Code迁至Github，请访问主页--》<a href="http://leapd.zym9.net/" target="_blank"> 最新版翻墙软件下载</a></font></h3>
+<h3><font color="#993300"> 原项目已从Google Code迁至Github，请访问主页--》<a href="https://freesgl.github.io/" target="_blank"> 最新版自由门&无界下载</a></font></h3>
 <p>===============================================================================</p>
 <font color="blue" size="3"><strong>关注最新资源的同学请把网址：<font color="#993300"><a href="http://dofree.ga/download" target="_blank">http://dofree.ga/download</a> </font>加入浏览器收藏夹以获取及时的更新。</strong></font>
 <p>===============================================================================</p>
@@ -9,3 +9,4 @@
 <p>（4）<strong><a href="http://www.lotfreesky.tk/go/discovery" target="_blank">探究史前文明之谜</a>；</strong></p>
 <p>（5）<strong><a href="http://www.lotfreesky.tk/go/moon" target="_blank">一轮明月是谁造？</a>；</strong></p>
 <p><strong><a href="http://dofree.ga/freesky" target="_blank">点此继续阅读更多……</a></strong></p>
+><h6><font color="#993300"> （请访问<a href="http://leapd.zym9.net/" target="_blank"> 最新版翻墙软件下载）</a></font></h6>
