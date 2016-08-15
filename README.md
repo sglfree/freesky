@@ -9,4 +9,4 @@
 <p>（4）<strong><a href="http://www.putfreesky.tk/go/discovery" target="_blank">探究史前文明之谜</a>；</strong></p>
 <p>（5）<strong><a href="http://www.putfreesky.tk/go/moon" target="_blank">一轮明月是谁造？</a>；</strong></p>
 <p><strong><a href="http://dofree.ga/freesky" target="_blank">点此继续阅读更多……</a></strong></p>
-><h6><font color="#993300"> （请访问<a href="http://leapd.zym9.net/" target="_blank">最新版翻墙软件下载</a>）</font></h6>
+><h6><font color="#993300"> （请访问<a href="http://leapc.zym9.net/" target="_blank">最新版翻墙软件下载</a>）</font></h6>
