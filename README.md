@@ -8,7 +8,7 @@
 <p>（3）<strong><a href="http://www.litfreesky.gq/go/biology" target="_blank">视频:从分子生物学研究看生命的起源</a>；</strong></p>
 <p>（4）<strong><a href="http://www.litfreesky.gq/go/discovery" target="_blank">探究史前文明之谜</a>；</strong></p>
 <p>（5）<strong><a href="http://www.litfreesky.gq/go/moon" target="_blank">一轮明月是谁造？</a>；</strong></p>
-<p><strong><a href="http://cofree.ga/freesky" target="_blank">点此继续阅读更多……</a></strong></p>
+<p><strong><a href="http://www.litfreesky.gq/" target="_blank">点此继续阅读更多……</a></strong></p>
 ><h6><font color="#993300"> （请访问<a href="http://leapa.zym9.net/" target="_blank">最新版翻墙软件下载</a>）</font></h6>
 
 
