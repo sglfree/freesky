@@ -3,9 +3,9 @@
 <font color="blue" size="3"><strong>关注最新资源的同学请把网址：<font color="#993300"><a href="https://git.io/gofree" target="_blank">https://git.io/gofree</a> </font>加入浏览器收藏夹以获取及时的更新。</strong></font>
 <p>===============================================================================</p>
 <p><strong>值得一读的文章</strong>：</p>
-<p>（1）<strong><a href="http://leap.olife.org/go/truth" target="_blank"> 视频:真相报道（一）</a>；</strong></p>
-<p>（2）<strong><a href="http://leap.olife.org/res-download/" target="_blank">资源下载</a>；</strong></p>
-<p>（3）<strong><a href="http://leap.olife.org/go/biology" target="_blank">视频:从分子生物学研究看生命的起源</a>；</strong></p>
-<p>（4）<strong><a href="http://leap.olife.org/go/discovery" target="_blank">探究史前文明之谜</a>；</strong></p>
-<p>（5）<strong><a href="http://leap.olife.org/go/moon" target="_blank">一轮明月是谁造？</a>；</strong></p>
-<p><strong><a href="http://leap.olife.org/" target="_blank">点此继续阅读更多……</a></strong></p>
+<p>（1）<strong><a href="http://leapa.olife.org/go/truth" target="_blank"> 视频:真相报道（一）</a>；</strong></p>
+<p>（2）<strong><a href="http://leapa.olife.org/res-download/" target="_blank">资源下载</a>；</strong></p>
+<p>（3）<strong><a href="http://leapa.olife.org/go/biology" target="_blank">视频:从分子生物学研究看生命的起源</a>；</strong></p>
+<p>（4）<strong><a href="http://leapa.olife.org/go/discovery" target="_blank">探究史前文明之谜</a>；</strong></p>
+<p>（5）<strong><a href="http://leapa.olife.org/go/moon" target="_blank">一轮明月是谁造？</a>；</strong></p>
+<p><strong><a href="http://leapa.olife.org/" target="_blank">点此继续阅读更多……</a></strong></p>
