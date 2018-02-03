@@ -1,17 +1,27 @@
 <h3><font color="#993300"> 原项目已从Google Code迁至Github，请访问主页--》<a href="https://github.com/sglfree/freesky/wiki/%E8%87%AA%E7%94%B1%E9%97%A8%E6%9C%80%E6%96%B0%E7%89%88%E4%B8%8B%E8%BD%BD-%E6%97%A0%E7%95%8C%E6%B5%8F%E8%A7%88%E6%9C%80%E6%96%B0%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8B%E8%BD%BD-%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6%E4%B8%8B%E8%BD%BD" target="_blank"> 最新版自由门&无界下载</a></font></h3>
+
 ***
 >##### 最新更新：自由门7.64版（2018年1月9日发布）/无界17.04正式版（2017年11月12日发布）/无界一点通（安卓版）4.1正式版（2017年11月23日发布）
 ***
+
 ### 最新翻墙软件下载地址
-#####【电脑版翻墙软件】
+
+【电脑版翻墙软件】
+
 * <p><a href="https://d3bpb596z2msyb.cloudfront.net/free-dom-men-latest-release/" target="_blank">最新自由门7.64版下载</a></p>
 * <p><a href="https://d3bpb596z2msyb.cloudfront.net/wu-jie-latest-release/" target="_blank">无界浏览最新17.04正式版下载</a></p>
 * <p><a href="https://d3bpb596z2msyb.cloudfront.net/ippo-tv-latest-release/" target="_blank">绿色爱博电视(iPPOTV)最新版0944C下载</a></p>
-#####【安卓版翻墙软件】
+
+【安卓版翻墙软件】
+
 * <p><a href="https://d3bpb596z2msyb.cloudfront.net/mobile-twit-ter-face-book/" target="_blank">无界一点通/自由门安卓版手机翻墙软件下载</a></p>
-#####【Mac版翻墙软件】
+
+【Mac版翻墙软件】
+
 * <p><a href="https://d3bpb596z2msyb.cloudfront.net/freemen-on-mac/" target="_blank">Mac系统翻墙软件下载</a></p>
-#####【更多翻墙软件和资源】
+
+【更多翻墙软件和资源】
+
 * <p><a href="https://d3bpb596z2msyb.cloudfront.net/res-download/" target="_blank">更多实用软件和资源下载（赛风3，lantern蓝灯）</a></p>
 <p>===============================================================================</p>
 <p><strong>值得一读的文章</strong>：</p>
