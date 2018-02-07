@@ -8,21 +8,21 @@
 
 【电脑版翻墙软件】
 
-* <p><a href="https://d3bpb596z2msyb.cloudfront.net/free-dom-men-latest-release/" target="_blank">最新自由门7.64版下载</a></p>
-* <p><a href="https://d3bpb596z2msyb.cloudfront.net/wu-jie-latest-release/" target="_blank">无界浏览最新17.04正式版下载</a></p>
-* <p><a href="https://d3bpb596z2msyb.cloudfront.net/ippo-tv-latest-release/" target="_blank">绿色爱博电视(iPPOTV)最新版0944C下载</a></p>
+* <p><a href="https://dv16eku7zc8jp.cloudfront.net/free-dom-men-latest-release/" target="_blank">最新自由门7.64版下载</a></p>
+* <p><a href="https://dv16eku7zc8jp.cloudfront.net/wu-jie-latest-release/" target="_blank">无界浏览最新17.04正式版下载</a></p>
+* <p><a href="https://dv16eku7zc8jp.cloudfront.net/ippo-tv-latest-release/" target="_blank">绿色爱博电视(iPPOTV)最新版0944C下载</a></p>
 
 【安卓版翻墙软件】
 
-* <p><a href="https://d3bpb596z2msyb.cloudfront.net/mobile-twit-ter-face-book/" target="_blank">无界一点通/自由门安卓版手机翻墙软件下载</a></p>
+* <p><a href="https://dv16eku7zc8jp.cloudfront.net/mobile-twit-ter-face-book/" target="_blank">无界一点通/自由门安卓版手机翻墙软件下载</a></p>
 
 【Mac版翻墙软件】
 
-* <p><a href="https://d3bpb596z2msyb.cloudfront.net/freemen-on-mac/" target="_blank">Mac系统翻墙软件下载</a></p>
+* <p><a href="https://dv16eku7zc8jp.cloudfront.net/freemen-on-mac/" target="_blank">Mac系统翻墙软件下载</a></p>
 
 【更多翻墙软件和资源】
 
-* <p><a href="https://d3bpb596z2msyb.cloudfront.net/res-download/" target="_blank">更多实用软件和资源下载（赛风3，lantern蓝灯）</a></p>
+* <p><a href="https://dv16eku7zc8jp.cloudfront.net/res-download/" target="_blank">更多实用软件和资源下载（赛风3，lantern蓝灯）</a></p>
 <p>===============================================================================</p>
 <p><strong>值得一读的文章</strong>：</p>
 <p>（1）<strong><a href="http://skiph.auraria.org/go/truth" target="_blank"> 视频:真相报道（一）</a>；</strong></p>
