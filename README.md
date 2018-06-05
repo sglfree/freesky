@@ -10,7 +10,7 @@
 <p>（1）<strong><a href="http://t.cn/R11q9Ud" target="_blank"> 视频:真相报道（一）</a>；</strong></p>
 <p>（2）<strong><a href="http://t.cn/R11G1e7" target="_blank">资源下载</a>；</strong></p>
 <p>（3）<strong><a href="http://t.cn/R11qlPg" target="_blank">视频:从分子生物学研究看生命的起源</a>；</strong></p>
-<p>（4）<strong><a href="http://t.cn/R1u8JJQ" target="_blank">探究史前文明之谜</a>；</strong></p>
-<p>（5）<strong><a href="http://t.cn/R1u8SjH" target="_blank">一轮明月是谁造？</a>；</strong></p>
+<p>（4）<strong><a href="http://t.cn/R11qeKb" target="_blank">探究史前文明之谜</a>；</strong></p>
+<p>（5）<strong><a href="http://t.cn/R115wlN" target="_blank">一轮明月是谁造？</a>；</strong></p>
 <p><strong><a href="http://t.cn/R1QbCpy" target="_blank">点此继续阅读更多……</a></strong></p>
 
