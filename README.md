@@ -9,7 +9,7 @@
 
 ***
 >###  值得一读的文章：
-> <p>（1）<strong><a href="http://t.cn/Ebvnmrw" target="_blank">视频:真相报道（一）</a>；</strong></p>
+> <p>（1）<strong><a href="https://s3-external-1.amazonaws.com/freeskye/index.html?i=b1" target="_blank">视频:真相报道（一）</a>；</strong></p>
 > <p>（2）<strong><a href="https://s3-external-1.amazonaws.com/freeskye/index.html?i=b2" target="_blank">退党团队声明精彩推荐</a>；</strong></p>
 > <p>（3）<strong><a href="https://s3-external-1.amazonaws.com/freeskye/index.html?i=b3" target="_blank">视频:从分子生物学研究看生命的起源</a>；</strong></p>
 > <p>（4）<strong><a href="https://s3-external-1.amazonaws.com/freeskye/index.html?i=b4" target="_blank">探究史前文明之谜</a>；</strong></p>
