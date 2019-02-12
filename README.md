@@ -8,11 +8,11 @@
 
 ***
 >###  值得一读的文章：
-> <p>（1）<strong><a href="http://go2.s3cdn.cofeed.win/index.html?i=b1" target="_blank">视频:真相报道（一）</a>；</strong></p>
-> <p>（2）<strong><a href="http://go2.s3cdn.cofeed.win/index.html?i=b2" target="_blank">退党团队声明精彩推荐</a>；</strong></p>
-> <p>（3）<strong><a href="http://go2.s3cdn.cofeed.win/index.html?i=b3" target="_blank">视频:从分子生物学研究看生命的起源</a>；</strong></p>
-> <p>（4）<strong><a href="http://go2.s3cdn.cofeed.win/index.html?i=b4" target="_blank">探究史前文明之谜</a>；</strong></p>
-> <p>（5）<strong><a href="http://go2.s3cdn.cofeed.win/index.html?i=b5" target="_blank">天文探索：宇宙本身就是一个生命</a>；</strong></p>
-> <p>（6）<strong><a href="http://go2.s3cdn.cofeed.win/index.html?i=b6" target="_blank">一轮明月是谁造？</a>；</strong></p>
-> <p><strong><a href="http://go2.s3cdn.cofeed.win/index.html?i=b7" target="_blank">点此阅读更多……</a> --OR-- <a href="https://s3.amazonaws.comtest/freeskya/index.html?i=b7http://cbi.gofreez.aocool.mentest/forum.php?i=b7" target="_blank">备份传送门</a></strong></p>
+> <p>（1）<strong><a href="https://d30d9u8p773lrn.cloudfront.net/forum.php?i=b1" target="_blank">视频:真相报道（一）</a>；</strong></p>
+> <p>（2）<strong><a href="https://d30d9u8p773lrn.cloudfront.net/forum.php?i=b2" target="_blank">退党团队声明精彩推荐</a>；</strong></p>
+> <p>（3）<strong><a href="https://d30d9u8p773lrn.cloudfront.net/forum.php?i=b3" target="_blank">视频:从分子生物学研究看生命的起源</a>；</strong></p>
+> <p>（4）<strong><a href="https://d30d9u8p773lrn.cloudfront.net/forum.php?i=b4" target="_blank">探究史前文明之谜</a>；</strong></p>
+> <p>（5）<strong><a href="https://d30d9u8p773lrn.cloudfront.net/forum.php?i=b5" target="_blank">天文探索：宇宙本身就是一个生命</a>；</strong></p>
+> <p>（6）<strong><a href="https://d30d9u8p773lrn.cloudfront.net/forum.php?i=b6" target="_blank">一轮明月是谁造？</a>；</strong></p>
+> <p><strong><a href="https://d30d9u8p773lrn.cloudfront.net/forum.php?i=b7" target="_blank">点此阅读更多……</a> --OR-- <a href="http://go2.s3cdn.cofeed.win/index.html?i=b7https://s3.amazonaws.comtest/freeskya/index.html?i=b7http://cbi.gofreez.aocool.mentest/forum.php?i=b7" target="_blank">备份传送门</a></strong></p>
 ***
