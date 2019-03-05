@@ -7,7 +7,7 @@
 <font color="blue" size="3"><strong>关注最新资源的同学请把网址：<font color="#993300"><a href="https://git.io/gofree" target="_blank">https://git.io/gofree</a> </font>加入浏览器收藏夹以获取及时的更新。</strong></font>
 
 ***
-### 翻墙软件下载索引
+#### 翻墙软件下载索引
 从易用性，翻墙速度和稳定性以及安全几个角度比较，自由门和无界浏览属于效果最好的翻墙软件之列。可以根据不同系统平台选用以下适合的：
 
 #### Windows系统翻墙软件：
