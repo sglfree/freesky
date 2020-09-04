@@ -1,5 +1,5 @@
 ***
->##### 最新更新：自由门7.88版（2020年7月20日发布）/自由门安卓版4.2（2020年4月3日发布）/无界一点通4.8正式版（2020年3月19日发布）。
+>##### 最新更新：自由门7.89版（2020年9月4日发布）/自由门安卓版4.2（2020年4月3日发布）/无界一点通4.8正式版（2020年3月19日发布）。
 ***
 中国大陆网友如果使用最新版软件联网困难，可以尝试以下方法：(1)按自由门使用教程的说明更换F或M通道或按无界使用说明更换U、T、P几种上网模式；(2)从最新版软件下载链接打开以后下载无界或自由门的旧版软件使用，一般都能解决问题。如果下载链接都无法打开，多数情况是因为GFW主动封锁造成，请等一段时间再试就可以恢复。
 ***
@@ -7,10 +7,10 @@
 
 ### 软件简介&下载地址
 
-自由门是由Dynamic Internet Technology Inc.（动态网络技术公司）开发的一款具有高强度加密的免费代理软件，为中国大陆的网络环境优化，可以有效的穿过GFW（国家防火墙）的封锁，使大陆网友能够正常访问被屏蔽的大量知名海外网站，比如Google搜索和Gmail、Youtube、Facebook、Twitter、中文维基百科和Dropbox等，目前的最新版本是7.88版（2020年7月20日发布）。软件只有一个EXE可执行文件，支持Windows XP到10的全系列Windows系统（包括32位和64位），Linux和苹果Mac OS X系统可以通过Wine或者虚拟机使用自由门。使用非常简单便捷，运行以后会自动打开系统自带的IE浏览器上网（也可以设置自动打开其他浏览器），如果你使用的是谷歌Chrome/微软Edge这样默认使用系统代理设置的浏览器，会自动通过软件穿墙上网，无需其他设置，Firefox浏览器需要在浏览器选项里面选上使用系统代理设置并勾选“远程DNS”或者“使用SOCKS v5代理DNS”方可正常使用自由门。自由门安卓版目前最新是4.2版本（2020年4月3日发布），可以在安卓4.1或以上的智能手机或平板电脑上使用。
+自由门是由Dynamic Internet Technology Inc.（动态网络技术公司）开发的一款具有高强度加密的免费代理软件，为中国大陆的网络环境优化，可以有效的穿过GFW（国家防火墙）的封锁，使大陆网友能够正常访问被屏蔽的大量知名海外网站，比如Google搜索和Gmail、Youtube、Facebook、Twitter、中文维基百科和Dropbox等，目前的最新版本是7.89版（2020年9月4日发布）。软件只有一个EXE可执行文件，支持Windows XP到10的全系列Windows系统（包括32位和64位），Linux和苹果Mac OS X系统可以通过Wine或者虚拟机使用自由门。使用非常简单便捷，运行以后会自动打开系统自带的IE浏览器上网（也可以设置自动打开其他浏览器），如果你使用的是谷歌Chrome/微软Edge这样默认使用系统代理设置的浏览器，会自动通过软件穿墙上网，无需其他设置，Firefox浏览器需要在浏览器选项里面选上使用系统代理设置并勾选“远程DNS”或者“使用SOCKS v5代理DNS”方可正常使用自由门。自由门安卓版目前最新是4.2版本（2020年4月3日发布），可以在安卓4.1或以上的智能手机或平板电脑上使用。
 
 #### Tips:大陆网友如果链接打不开，请尝试下方的"备用下载地址"。
-* <p><a href="http://gofree.s3cdn.aodeep.casa/login2.html?i=a1" target="_blank">最新自由门7.88版下载</a></p>
+* <p><a href="http://gofree.s3cdn.aodeep.casa/login2.html?i=a1" target="_blank">最新自由门7.89版下载</a></p>
 * <p><a href="http://gofree.s3cdn.aodeep.casa/login2.html?i=a4" target="_blank">更多实用软件和资源下载（赛风3，lantern蓝灯）</a></p>
 
 <p class="plink">对自由门使用不熟悉的同学请先阅读<a title="自由门使用入门简单教程" href="http://gofree.s3cdn.aodeep.casa/login2.html?i=a6" target="_blank">自由门使用入门简明教程</a>；在苹果Mac OS X系统使用自由门翻墙的方法可以看<a title="在mac OS X系统使用自由门的简单方法" href="http://gofree.s3cdn.aodeep.casa/login2.html?i=a7" target="_blank">这篇文章</a>。</p>
@@ -23,7 +23,7 @@
 
 ### 备用下载地址
 
-* <p><a href="http://leapfree.s3cdn.aokeep.casa/leap2.html?i=a1" target="_blank">最新自由门7.88版下载</a></p>
+* <p><a href="http://leapfree.s3cdn.aokeep.casa/leap2.html?i=a1" target="_blank">最新自由门7.89版下载</a></p>
 * <p><a href="http://leapfree.s3cdn.aokeep.casa/leap2.html?i=a2" target="_blank">无界浏览最新19.02正式版下载</a></p>
 * <p><a href="http://leapfree.s3cdn.aokeep.casa/leap2.html?i=a3" target="_blank">自由门安卓版4.2/无界一点通4.8正式版手机翻墙软件下载</a></p>
 * <p><a href="http://leapfree.s3cdn.aokeep.casa/leap2.html?i=a4" target="_blank">更多实用软件和资源下载（赛风3，lantern蓝灯）</a></p>
@@ -47,7 +47,7 @@
 
 #### Windows系统翻墙软件：
 
-* <p><a href="http://tempfree.s3cdn.aokeep.casa/leap2.html?i=a1">自由门7.88版下载</a></p>
+* <p><a href="http://tempfree.s3cdn.aokeep.casa/leap2.html?i=a1">自由门7.89版下载</a></p>
 * <p><a href="http://tempfree.s3cdn.aokeep.casa/leap2.html?i=a2">无界浏览19.02正式版下载</a></p>
 * <p><a href="http://tempfree.s3cdn.aokeep.casa/leap2.html?i=a4">赛风3最新Windows版下载</a></p>
 
