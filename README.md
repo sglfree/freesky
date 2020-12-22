@@ -1,5 +1,5 @@
 ***
->##### 最新更新：自由门7.91版（2020年11月1日发布）/自由门安卓版4.3（2020年10月17日发布）/无界一点通4.8正式版（2020年3月19日发布）。
+>##### 最新更新：自由门7.91版（2020年11月1日发布）/自由门安卓版4.3（2020年10月17日发布）/无界一点通4.9正式版（2020年12月17日发布）。
 ***
 中国大陆网友如果使用最新版软件联网困难，可以尝试以下方法：(1)按自由门使用教程的说明更换F或M通道或按无界使用说明更换U、T、P几种上网模式；(2)从最新版软件下载链接打开以后下载无界或自由门的旧版软件使用，一般都能解决问题。如果下载链接都无法打开，多数情况是因为GFW主动封锁造成，请等一段时间再试就可以恢复。
 ***
@@ -15,17 +15,17 @@
 
 <p class="plink">对自由门使用不熟悉的同学请先阅读<a title="自由门使用入门简单教程" href="https://d2y7iqol9j6sws.cloudfront.net/login2.html?i=a6" target="_blank">自由门使用入门简明教程</a>；在苹果Mac OS X系统使用自由门翻墙的方法可以看<a title="在mac OS X系统使用自由门的简单方法" href="https://d2y7iqol9j6sws.cloudfront.net/login2.html?i=a7" target="_blank">这篇文章</a>。</p>
 
-无界浏览（网友一般简称为无界）是美国UltraReach Internet Corp.（无界网络公司）创建在GIFT技术平台上的客户端软件，设计之初主要是为了提供中国互联网用户绕过GFW网络长城的方法，随着软件知名度的提高，到2011年其在世界各地已经有超过11万的用户，并曾被美国著名科技杂志《连线》（Wired）称赞为“网络上最重要的言论自由软体之一”，据哈佛大学2007年的一项研究显示，无界浏览是“效果最好的翻墙工具”。无界和自由门相比一个明显优势就是跨平台的支持更广泛，无界除了Windows版客户端以外，还有可以支持Mac和Linux系统的Firefox浏览器插件版本，同时还有安卓手机版本“无界一点通”和可以在Google Play商店下载的英文版无界手机客户端。目前无界浏览Windows平台最新版本是19.02正式版（2019年2月15日发布），无界一点通（安卓版）最新版本是4.8正式版（2020年3月19日发布）。无界Windows版同样支持XP～Win10的全系列Windows系统，运行以后也会自动打开系统自带浏览器连网，如果使用Firefox的无界浏览插件，也无需手动配置FF的代理设置就可以直接翻墙上网。
+无界浏览（网友一般简称为无界）是美国UltraReach Internet Corp.（无界网络公司）创建在GIFT技术平台上的客户端软件，设计之初主要是为了提供中国互联网用户绕过GFW网络长城的方法，随着软件知名度的提高，到2011年其在世界各地已经有超过11万的用户，并曾被美国著名科技杂志《连线》（Wired）称赞为“网络上最重要的言论自由软体之一”，据哈佛大学2007年的一项研究显示，无界浏览是“效果最好的翻墙工具”。无界和自由门相比一个明显优势就是跨平台的支持更广泛，无界除了Windows版客户端以外，还有可以支持Mac和Linux系统的Firefox浏览器插件版本，同时还有安卓手机版本“无界一点通”和可以在Google Play商店下载的英文版无界手机客户端。目前无界浏览Windows平台最新版本是19.02正式版（2019年2月15日发布），无界一点通（安卓版）最新版本是4.9正式版（2020年12月17日发布）。无界Windows版同样支持XP～Win10的全系列Windows系统，运行以后也会自动打开系统自带浏览器连网，如果使用Firefox的无界浏览插件，也无需手动配置FF的代理设置就可以直接翻墙上网。
 
 * <p><a href="https://d2y7iqol9j6sws.cloudfront.net/login2.html?i=a2" target="_blank">无界浏览最新19.02正式版下载</a></p>
-* <p><a href="https://d2y7iqol9j6sws.cloudfront.net/login2.html?i=a3" target="_blank">自由门安卓版4.3/无界一点通4.8正式版手机翻墙软件下载</a></p>
+* <p><a href="https://d2y7iqol9j6sws.cloudfront.net/login2.html?i=a3" target="_blank">自由门安卓版4.3/无界一点通4.9正式版手机翻墙软件下载</a></p>
 * <p><a href="https://d2y7iqol9j6sws.cloudfront.net/login2.html?i=a5" target="_blank">绿色爱博电视(iPPOTV)最新版0944C下载</a> --OR-- <a href="https://d2y7iqol9j6sws.cloudfront.net/s3-useast-1/login2.html?i=a5https://s3-external-1.amazonaws.com/s3-useast-1/login2.html?i=a5https://s3.amazonaws.com/s3-useast-1/login.html?i=a5https://s3-external-1.amazonaws.com/s3-useast-1/login.html?i=a5" target="_blank">备份传送门</a></p>
 
 ### 备用下载地址
 
 * <p><a href="https://divfecpd1815f.cloudfront.net/leap2.html?i=a1" target="_blank">最新自由门7.91版下载</a></p>
 * <p><a href="https://divfecpd1815f.cloudfront.net/leap2.html?i=a2" target="_blank">无界浏览最新19.02正式版下载</a></p>
-* <p><a href="https://divfecpd1815f.cloudfront.net/leap2.html?i=a3" target="_blank">自由门安卓版4.3/无界一点通4.8正式版手机翻墙软件下载</a></p>
+* <p><a href="https://divfecpd1815f.cloudfront.net/leap2.html?i=a3" target="_blank">自由门安卓版4.3/无界一点通4.9正式版手机翻墙软件下载</a></p>
 * <p><a href="https://divfecpd1815f.cloudfront.net/leap2.html?i=a4" target="_blank">更多实用软件和资源下载（赛风3，lantern蓝灯）</a></p>
 * <p><a href="https://divfecpd1815f.cloudfront.net/leap2.html?i=a5" target="_blank">绿色爱博电视(iPPOTV)最新版0944C下载</a> --OR-- <a href="https://divfecpd1815f.cloudfront.net/leap2.html?i=a5https://s3-us-west-2.amazonaws.com/s3-website-uswest-2/leap.html?i=a5http://bbc.freetip.bodive.win/forum.php?i=a5http://s3-website-uswest-2.s3-website-us-west-2.amazonaws.com/leap.html?i=a5" target="_blank">备份传送门</a></p>
 
@@ -52,7 +52,7 @@
 * <p><a href="https://divfecpd1815f.cloudfront.net/leap2.html?i=a4">赛风3最新Windows版下载</a></p>
 
 #### 安卓手机翻墙软件：
-* <p><a href="https://divfecpd1815f.cloudfront.net/leap2.html?i=a3">无界浏览安卓版（无界一点通）4.8正式版/4.7a测试版下载</a></p>
+* <p><a href="https://divfecpd1815f.cloudfront.net/leap2.html?i=a3">无界浏览安卓版（无界一点通）4.9正式版/4.6正式版下载</a></p>
 * <p><a href="https://divfecpd1815f.cloudfront.net/leap2.html?i=a3">自由门安卓版4.3下载</a></p>
 * <p><a href="https://divfecpd1815f.cloudfront.net/leap2.html?i=a4">赛风3最新安卓版下载</a></p>
 * <p>无界英文手机版1.1.3测试版下载</p>
