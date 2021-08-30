@@ -3,7 +3,7 @@
 ***
 中国大陆网友如果使用最新版软件联网困难，可以尝试以下方法：(1)按自由门的使用教程更换F或M通道或按无界使用说明更换U、T、P几种上网模式；(2)从最新版软件下载链接打开以后下载自由门或无界的旧版本使用，一般都能解决问题。如果下载链接都无法打开，多数情况是因为GFW主动封锁造成，请等一段时间再试就可以恢复。
 ***
-<strong>关注最新资源的同学可使用短网址：<font color="#993300"><a href="https://git.io/skyfree" target="_blank">https://git.io/skyfree</a> </font>或者 <font color="#993300"><a href="https://github.com/sglfree/freesky" target="_blank">https://github.com/sglfree/freesky</a> </font>(微信中可用)以获取及时的更新。</strong>
+<strong>关注最新资源的同学可收藏网址：<font color="#993300"><a href="https://github.com/sglfree/freesky" target="_blank">https://github.com/sglfree/freesky</a> </font>(微信中可用)以获取及时的更新。</strong>
 
 ### 软件简介&下载地址
 
