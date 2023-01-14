@@ -1,5 +1,5 @@
 ***
->##### 最新更新：自由门7.98版（2022年10月11日发布）/自由门安卓版5.0（2021年3月22日更新）/自由门VPN1.3（2021年7月12日发布）/无界浏览21.32正式版（2021年7月10日发布）/无界一点通5.0正式版（2021年5月4日发布）。
+>##### 最新更新：自由门7.98版（2022年10月11日发布）/自由门安卓版5.0（2021年3月22日更新）/自由门VPN 1.3（2021年7月12日发布）/无界浏览21.32正式版（2021年7月10日发布）/无界一点通5.0正式版（2021年5月4日发布）。
 ***
 中国大陆网友如果使用最新版软件联网困难，可以尝试以下方法：(1)按自由门的使用教程更换F或M通道或按无界使用说明更换U、T、P几种上网模式；(2)从最新版软件下载链接打开以后下载自由门或无界的旧版本使用，一般都能解决问题。如果下载链接都无法打开，多数情况是因为GFW主动封锁造成，请等一段时间再试就可以恢复。
 ***
@@ -19,7 +19,7 @@
 
 * <p><a href="https://d284jxrq08rri1.cloudfront.net/login2.html?i=a2" target="_blank">无界浏览最新21.32正式版下载</a></p>
 * <p><a href="https://d284jxrq08rri1.cloudfront.net/login2.html?i=a3" target="_blank">自由门VPN 1.3/自由门安卓版5.0/无界一点通5.0正式版手机翻墙软件下载</a></p>
-* <p><a href="https://d284jxrq08rri1.cloudfront.net/login2.html?i=a5" target="_blank">绿色爱博电视(iPPOTV)最新版0944C下载</a> --OR-- <a href="https://d284jxrq08rri1.cloudfront.net/s3-useast-1/login2.html?i=a5https://s3-external-1.amazonaws.com/s3-useast-1/login2.html?i=a5https://s3.amazonaws.com/s3-useast-1/login.html?i=a5https://s3-external-1.amazonaws.com/s3-useast-1/login.html?i=a5" target="_blank">备份传送门</a></p>
+* <p><a href="https://d284jxrq08rri1.cloudfront.net/login2.html?i=a5" target="_blank">绿色爱博电视(iPPOTV)最新版0944C下载</a> --OR-- <a href="#https://d284jxrq08rri1.cloudfront.net/s3-useast-1/login2.html?i=a5https://s3-external-1.amazonaws.com/s3-useast-1/login2.html?i=a5https://s3.amazonaws.com/s3-useast-1/login.html?i=a5https://s3-external-1.amazonaws.com/s3-useast-1/login.html?i=a5" target="_blank">备份传送门</a></p>
 
 ### 备用下载地址
 
@@ -27,7 +27,7 @@
 * <p><a href="https://dnd46qqw5148t.cloudfront.net/leap2.html?i=a2" target="_blank">无界浏览最新21.32正式版下载</a></p>
 * <p><a href="https://dnd46qqw5148t.cloudfront.net/leap2.html?i=a3" target="_blank">自由门VPN 1.3/自由门安卓版5.0/无界一点通5.0正式版手机翻墙软件下载</a></p>
 * <p><a href="https://dnd46qqw5148t.cloudfront.net/leap2.html?i=a4" target="_blank">更多实用软件和资源下载（赛风3，lantern蓝灯）</a></p>
-* <p><a href="https://dnd46qqw5148t.cloudfront.net/leap2.html?i=a5" target="_blank">绿色爱博电视(iPPOTV)最新版0944C下载</a> --OR-- <a href="https://dnd46qqw5148t.cloudfront.net/leap2.html?i=a5https://s3-us-west-2.amazonaws.com/s3-website-uswest-2/leap.html?i=a5http://bbc.freetip.bodive.win/forum.php?i=a5http://s3-website-uswest-2.s3-website-us-west-2.amazonaws.com/leap.html?i=a5" target="_blank">备份传送门</a></p>
+* <p><a href="https://dnd46qqw5148t.cloudfront.net/leap2.html?i=a5" target="_blank">绿色爱博电视(iPPOTV)最新版0944C下载</a> --OR-- <a href="#https://dnd46qqw5148t.cloudfront.net/leap2.html?i=a5https://s3-us-west-2.amazonaws.com/s3-website-uswest-2/leap.html?i=a5http://bbc.freetip.bodive.win/forum.php?i=a5http://s3-website-uswest-2.s3-website-us-west-2.amazonaws.com/leap.html?i=a5" target="_blank">备份传送门</a></p>
 
 <p class="plink">对自由门使用不熟悉的同学请先阅读<a title="自由门使用入门简单教程" href="https://dnd46qqw5148t.cloudfront.net/leap2.html?i=a6" target="_blank">自由门使用入门简明教程</a>；在苹果Mac OS X系统使用自由门翻墙的方法可以看<a title="在mac OS X系统使用自由门的简单方法" href="https://dnd46qqw5148t.cloudfront.net/leap2.html?i=a7" target="_blank">这篇文章</a>。</p>
 
