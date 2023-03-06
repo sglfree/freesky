@@ -24,23 +24,23 @@
 
 ### 备用下载地址
 
-* <p><a href="https://s3cdnb.freesky.autos/leap2.html?i=a1" target="_blank">最新自由门7.99版下载</a></p>
-* <p><a href="https://s3cdnb.freesky.autos/leap2.html?i=a2" target="_blank">无界浏览最新21.32正式版下载</a></p>
-* <p><a href="https://s3cdnb.freesky.autos/leap2.html?i=a3" target="_blank">自由门VPN 1.3/自由门安卓版5.0/无界一点通5.0正式版手机翻墙软件下载</a></p>
-* <p><a href="https://s3cdnb.freesky.autos/leap2.html?i=a4" target="_blank">更多实用软件和资源下载（赛风3，lantern蓝灯）</a></p>
-* <p><a href="https://s3cdnb.freesky.autos/leap2.html?i=a5" target="_blank">绿色爱博电视(iPPOTV)最新版0944C下载</a> --OR-- <a href="#https://s3cdnb.freesky.autos/leap2.html?i=a5https://s3-us-west-2.amazonaws.com/s3-website-uswest-2/leap.html?i=a5http://bbc.freetip.bodive.win/forum.php?i=a5http://s3-website-uswest-2.s3-website-us-west-2.amazonaws.com/leap.html?i=a5" target="_blank">备份传送门</a></p>
+* <p><a href="https://d11fmlcwo25p6l.cloudfront.net/leap2.html?i=a1" target="_blank">最新自由门7.99版下载</a></p>
+* <p><a href="https://d11fmlcwo25p6l.cloudfront.net/leap2.html?i=a2" target="_blank">无界浏览最新21.32正式版下载</a></p>
+* <p><a href="https://d11fmlcwo25p6l.cloudfront.net/leap2.html?i=a3" target="_blank">自由门VPN 1.3/自由门安卓版5.0/无界一点通5.0正式版手机翻墙软件下载</a></p>
+* <p><a href="https://d11fmlcwo25p6l.cloudfront.net/leap2.html?i=a4" target="_blank">更多实用软件和资源下载（赛风3，lantern蓝灯）</a></p>
+* <p><a href="https://d11fmlcwo25p6l.cloudfront.net/leap2.html?i=a5" target="_blank">绿色爱博电视(iPPOTV)最新版0944C下载</a> --OR-- <a href="#https://d11fmlcwo25p6l.cloudfront.net/leap2.html?i=a5https://s3-us-west-2.amazonaws.com/s3-website-uswest-2/leap.html?i=a5http://bbc.freetip.bodive.win/forum.php?i=a5http://s3-website-uswest-2.s3-website-us-west-2.amazonaws.com/leap.html?i=a5" target="_blank">备份传送门</a></p>
 
-<p class="plink">对自由门使用不熟悉的同学请先阅读<a title="自由门使用入门简单教程" href="https://s3cdnb.freesky.autos/leap2.html?i=a6" target="_blank">自由门使用入门简明教程</a>；在苹果Mac OS X系统使用自由门翻墙的方法可以看<a title="在mac OS X系统使用自由门的简单方法" href="https://s3cdnb.freesky.autos/leap2.html?i=a7" target="_blank">这篇文章</a>。</p>
+<p class="plink">对自由门使用不熟悉的同学请先阅读<a title="自由门使用入门简单教程" href="https://d11fmlcwo25p6l.cloudfront.net/leap2.html?i=a6" target="_blank">自由门使用入门简明教程</a>；在苹果Mac OS X系统使用自由门翻墙的方法可以看<a title="在mac OS X系统使用自由门的简单方法" href="https://d11fmlcwo25p6l.cloudfront.net/leap2.html?i=a7" target="_blank">这篇文章</a>。</p>
 
 ***
 >###  值得一读的文章：
-> <p>（1）<strong><a href="https://s3cdnb.freesky.autos/login-b1.html?i=b1" target="_blank">视频:真相报道（一）</a>；</strong></p>
-> <p>（2）<strong><a href="https://s3cdnb.freesky.autos/login-b1.html?i=b2" target="_blank">退党团队声明精彩推荐</a>；</strong></p>
-> <p>（3）<strong><a href="https://s3cdnb.freesky.autos/login-b1.html?i=b3" target="_blank">视频:从分子生物学研究看生命的起源</a>；</strong></p>
-> <p>（4）<strong><a href="https://s3cdnb.freesky.autos/login-b1.html?i=b4" target="_blank">探究史前文明之谜</a>；</strong></p>
-> <p>（5）<strong><a href="https://s3cdnb.freesky.autos/login-b1.html?i=b5" target="_blank">天文探索：宇宙本身就是一个生命</a>；</strong></p>
-> <p>（6）<strong><a href="https://s3cdnb.freesky.autos/login-b1.html?i=b6" target="_blank">一轮明月是谁造？</a>；</strong></p>
-> <p><strong><a href="https://s3cdnb.freesky.autos/login-b1.html?i=b7" target="_blank">点此阅读更多……</a></strong></p>
+> <p>（1）<strong><a href="https://d11fmlcwo25p6l.cloudfront.net/login-b1.html?i=b1" target="_blank">视频:真相报道（一）</a>；</strong></p>
+> <p>（2）<strong><a href="https://d11fmlcwo25p6l.cloudfront.net/login-b1.html?i=b2" target="_blank">退党团队声明精彩推荐</a>；</strong></p>
+> <p>（3）<strong><a href="https://d11fmlcwo25p6l.cloudfront.net/login-b1.html?i=b3" target="_blank">视频:从分子生物学研究看生命的起源</a>；</strong></p>
+> <p>（4）<strong><a href="https://d11fmlcwo25p6l.cloudfront.net/login-b1.html?i=b4" target="_blank">探究史前文明之谜</a>；</strong></p>
+> <p>（5）<strong><a href="https://d11fmlcwo25p6l.cloudfront.net/login-b1.html?i=b5" target="_blank">天文探索：宇宙本身就是一个生命</a>；</strong></p>
+> <p>（6）<strong><a href="https://d11fmlcwo25p6l.cloudfront.net/login-b1.html?i=b6" target="_blank">一轮明月是谁造？</a>；</strong></p>
+> <p><strong><a href="https://d11fmlcwo25p6l.cloudfront.net/login-b1.html?i=b7" target="_blank">点此阅读更多……</a></strong></p>
 
 ***
 #### 翻墙软件下载索引（测试版）
@@ -48,14 +48,14 @@
 
 #### Windows系统翻墙软件：
 
-* <p><a href="https://s3cdnb.freesky.autos/leap2.html?i=a1">自由门7.99版下载</a></p>
-* <p><a href="https://s3cdnb.freesky.autos/leap2.html?i=a2">无界浏览21.32正式版下载</a></p>
-* <p><a href="https://s3cdnb.freesky.autos/leap2.html?i=a4">赛风3最新Windows版下载</a></p>
+* <p><a href="https://d11fmlcwo25p6l.cloudfront.net/leap2.html?i=a1">自由门7.99版下载</a></p>
+* <p><a href="https://d11fmlcwo25p6l.cloudfront.net/leap2.html?i=a2">无界浏览21.32正式版下载</a></p>
+* <p><a href="https://d11fmlcwo25p6l.cloudfront.net/leap2.html?i=a4">赛风3最新Windows版下载</a></p>
 
 #### 安卓手机翻墙软件：
-* <p><a href="https://s3cdnb.freesky.autos/leap2.html?i=a3">无界VPN正式版2.2.6/无界一点通5.0正式版下载</a></p>
-* <p><a href="https://s3cdnb.freesky.autos/leap2.html?i=a3">自由门VPN 1.3/自由门安卓版5.0下载</a></p>
-* <p><a href="https://s3cdnb.freesky.autos/leap2.html?i=a4">赛风3最新安卓版下载</a></p>
+* <p><a href="https://d11fmlcwo25p6l.cloudfront.net/leap2.html?i=a3">无界VPN正式版2.2.6/无界一点通5.0正式版下载</a></p>
+* <p><a href="https://d11fmlcwo25p6l.cloudfront.net/leap2.html?i=a3">自由门VPN 1.3/自由门安卓版5.0下载</a></p>
+* <p><a href="https://d11fmlcwo25p6l.cloudfront.net/leap2.html?i=a4">赛风3最新安卓版下载</a></p>
 * <p>无界英文手机版1.1.3测试版下载</p>
 
 #### 苹果Mac OS X系统翻墙软件
