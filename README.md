@@ -13,7 +13,7 @@
 #### Tips:大陆网友如果链接打不开，请尝试下方的["备用下载地址"。](#%E5%A4%87%E7%94%A8%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80)
 * <p><a href="https://dg60kqfi37qzu.cloudfront.net/login2.html?i=a1" target="_blank">最新自由门7.99版下载</a></p>
 * <p><a href="https://dg60kqfi37qzu.cloudfront.net/login2.html?i=a3" target="_blank">自由门VPN 1.4/自由门安卓版5.0手机翻墙软件下载</a></p>
-* <p><a href="https://dg60kqfi37qzu.cloudfront.net/login2.html?i=a4" target="_blank">更多实用软件和资源下载（赛风3、Nthlink、lantern蓝灯）</a></p>
+* <p><a href="https://dg60kqfi37qzu.cloudfront.net/login2.html?i=a4" target="_blank">更多实用软件和资源下载（赛风3，Nthlink，lantern蓝灯）</a></p>
 
 <p class="plink">对自由门使用不熟悉的同学请先阅读<a title="自由门使用入门简单教程" href="https://dg60kqfi37qzu.cloudfront.net/login2.html?i=a6" target="_blank">自由门使用入门简明教程</a>；在苹果Mac OS X系统使用自由门翻墙的方法可以看<a title="在mac OS X系统使用自由门的简单方法" href="https://dg60kqfi37qzu.cloudfront.net/login2.html?i=a7" target="_blank">这篇文章</a>。</p>
 
@@ -28,7 +28,7 @@
 * <p><a href="https://d1k8o91g03sv2t.cloudfront.net/leap2.html?i=a1" target="_blank">最新自由门7.99版下载</a></p>
 * <p><a href="https://d1k8o91g03sv2t.cloudfront.net/leap2.html?i=a2" target="_blank">无界浏览最新21.32正式版下载</a></p>
 * <p><a href="https://d1k8o91g03sv2t.cloudfront.net/leap2.html?i=a3" target="_blank">自由门VPN 1.4/自由门安卓版5.0/无界一点通5.0正式版手机翻墙软件下载</a></p>
-* <p><a href="https://d1k8o91g03sv2t.cloudfront.net/leap2.html?i=a4" target="_blank">更多实用软件和资源下载（赛风3，lantern蓝灯）</a></p>
+* <p><a href="https://d1k8o91g03sv2t.cloudfront.net/leap2.html?i=a4" target="_blank">更多实用软件和资源下载（赛风3，Nthlink，lantern蓝灯）</a></p>
 * <p><a href="https://d1k8o91g03sv2t.cloudfront.net/leap2.html?i=a5" target="_blank">绿色爱博电视(iPPOTV)最新版0944C下载</a> --OR-- <a href="#https://dg60kqfi37qzu.cloudfront.net/leap2.html?i=a5https://s3-us-west-2.amazonaws.com/s3-website-uswest-2/leap.html?i=a5http://bbc.freetip.bodive.win/forum.php?i=a5http://s3-website-uswest-2.s3-website-us-west-2.amazonaws.com/leap.html?i=a5" target="_blank">备份传送门</a></p>
 
 <p class="plink">对自由门使用不熟悉的同学请先阅读<a title="自由门使用入门简单教程" href="https://d1k8o91g03sv2t.cloudfront.net/leap2.html?i=a6" target="_blank">自由门使用入门简明教程</a>；在苹果Mac OS X系统使用自由门翻墙的方法可以看<a title="在mac OS X系统使用自由门的简单方法" href="https://d1k8o91g03sv2t.cloudfront.net/leap2.html?i=a7" target="_blank">这篇文章</a>。</p>
