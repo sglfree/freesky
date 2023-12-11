@@ -1,6 +1,6 @@
 ***
 >#### 最新更新：[《为什么会有人类》](https://d30irpwcx784vi.cloudfront.net/go/mankind) (2023年1月20日)&emsp;/[《为什么要救度众生》](https://d30irpwcx784vi.cloudfront.net/go/save) (2023年4月17日)
->##### 自由门7.99版（2023年2月27日发布）/自由门安卓版5.0（2021年3月22日更新）/自由门VPN 1.4版（2023年9月6日发布）/无界浏览21.32正式版（2021年7月10日发布）/无界一点通5.0正式版（2021年5月4日发布）。
+>##### 自由门7.99版（2023年2月27日发布）/自由门VPN 1.4版（2023年9月6日发布）/自由门安卓版5.0（2021年3月22日更新）/无界浏览21.32正式版（2021年7月10日发布）/无界一点通5.0正式版（2021年5月4日发布）。
 ***
 中国大陆网友如果使用最新版自由门联网时出现类似“目前封锁严重，请等待5~15分钟”的提示，可以尝试如下几种方式，一般情况都可以解决问题：(1)从下方最新版软件下载链接打开以后下载自由门或无界的旧版本使用，某些较早的版本通常会比较快找到服务器；(2)按自由门的使用教程更换F或M通道联网或按无界使用说明更换U、T、P几种上网模式。如果下载链接都无法打开，多数是因为GFW主动封锁造成的，请等一段时间再试就可以恢复。
 ***
@@ -12,7 +12,7 @@
 
 #### Tips:大陆网友如果链接打不开，请尝试下方的["备用下载地址"。](#%E5%A4%87%E7%94%A8%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80)
 * <p><a href="https://d2m47upzk8888w.cloudfront.net/login2.html?i=a1" target="_blank">最新自由门7.99版下载</a></p>
-* <p><a href="https://d2m47upzk8888w.cloudfront.net/login2.html?i=a3" target="_blank">自由门VPN 1.4/自由门安卓版5.0手机翻墙软件下载</a></p>
+* <p><a href="https://d2m47upzk8888w.cloudfront.net/login2.html?i=a3" target="_blank">自由门VPN 1.4/自由门安卓版5.0/无界VPN2.2.6/无界一点通5.0手机翻墙软件下载</a></p>
 * <p><a href="https://d2m47upzk8888w.cloudfront.net/login2.html?i=a4" target="_blank">更多实用软件和资源下载（赛风3，Nthlink，lantern蓝灯）</a></p>
 
 <p class="plink">对自由门使用不熟悉的同学请先阅读<a title="自由门使用入门简单教程" href="https://d2m47upzk8888w.cloudfront.net/login2.html?i=a6" target="_blank">自由门使用入门简明教程</a>；在苹果Mac OS X系统使用自由门翻墙的方法可以看<a title="在mac OS X系统使用自由门的简单方法" href="https://d2m47upzk8888w.cloudfront.net/login2.html?i=a7" target="_blank">这篇文章</a>。</p>
@@ -20,7 +20,7 @@
 无界浏览（网友一般简称为无界）是美国UltraReach Internet Corp.（无界网络公司）创建在GIFT技术平台上的客户端翻墙软件，设计之初主要是为了提供中国互联网用户绕过GFW网络长城的方法，随着软件知名度的提高，到2011年其在世界各地已经有超过11万的用户，并曾被美国著名科技杂志《连线》（Wired）称赞为“网络上最重要的言论自由软体之一”，据哈佛大学2007年的一项研究显示，无界浏览是“效果最好的翻墙工具”。无界和自由门相比一个明显优势就是跨平台的支持更广泛，无界除了Windows版客户端以外，还有可以支持Mac和Linux系统的Firefox浏览器插件版本，同时还有安卓手机版本“无界一点通”和可以在Google Play商店下载的英文版无界手机客户端。目前无界浏览Windows平台最新版本是21.32正式版（2021年7月10日发布），无界安卓手机版最新版本是无界VPN正式版2.2.6（2021年5月23日发布）和无界一点通5.0正式版（2021年5月4日发布）。无界Windows版同样支持WinXP～Win11的全系列Windows系统，运行以后也会自动打开系统自带浏览器连网，如果使用Firefox的无界浏览插件，无需手动配置FF的代理设置就可以直接通过无界翻墙上网。
 
 * <p><a href="https://d2m47upzk8888w.cloudfront.net/login2.html?i=a2" target="_blank">无界浏览最新21.32正式版下载</a></p>
-* <p><a href="https://d2m47upzk8888w.cloudfront.net/login2.html?i=a3" target="_blank">自由门VPN 1.4/自由门安卓版5.0/无界一点通5.0正式版手机翻墙软件下载</a></p>
+* <p><a href="https://d2m47upzk8888w.cloudfront.net/login2.html?i=a3" target="_blank">自由门VPN 1.4/自由门安卓版5.0/无界VPN2.2.6/无界一点通5.0手机翻墙软件下载</a></p>
 * <p><a href="https://d2m47upzk8888w.cloudfront.net/login2.html?i=a5" target="_blank">绿色爱博电视(iPPOTV)最新版0944C下载</a> --OR-- <a href="#https://d2m47upzk8888w.cloudfront.net/s3-useast-1/login2.html?i=a5https://s3-external-1.amazonaws.com/s3-useast-1/login2.html?i=a5https://s3.amazonaws.com/s3-useast-1/login.html?i=a5https://s3-external-1.amazonaws.com/s3-useast-1/login.html?i=a5" target="_blank">备份传送门</a></p>
 
 ### 备用下载地址
