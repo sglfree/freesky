@@ -6,7 +6,7 @@
 ***
 <strong>关注最新资源的同学可收藏网址：<font color="#993300"><a href="https://github.com/sglfree/freesky" target="_blank">https://github.com/sglfree/freesky</a> </font>(微信中可用)以获取及时的更新。</strong>
 
-### 软件简介&下载地址
+# 免费翻墙软件简介&下载地址
 
 自由门是由Dynamic Internet Technology Inc.（动态网络技术公司）开发的一款具有高强度加密的免费代理软件，为中国大陆的网络环境优化，可以有效的穿过GFW网络长城的封锁（也称为翻墙，所以自由门也是一种免费翻墙软件），使大陆网友能够正常访问被屏蔽的大量知名海外网站，比如Google搜索和Gmail、Youtube油管、Facebook脸书、Twitter/X推特、中文维基百科和Dropbox等，目前的最新版本是8.05版（2025年8月17日发布）。软件只有一个EXE可执行文件，支持Windows XP到11的全系列Windows系统（包括32位和64位），Linux和苹果Mac OS X系统可以通过Wine或者Windows虚拟机运行自由门。自由门软件使用非常简单便捷，运行以后会自动打开系统自带的IE或Edge浏览器上网（也可以设置成自动打开其他浏览器），如果你使用的是谷歌Chrome/微软Edge这样默认使用系统代理设置的浏览器，会自动通过自由门翻墙上网，无需其他设置，Firefox浏览器只需要在浏览器网络设置里面选上“使用系统代理设置”即可正常使用自由门。自由门安卓VPN目前最新版本是1.6版（2025年8月29日发布），可以在安卓4.4或以上的智能手机和平板电脑上使用，同时保留旧的自由门安卓5.0版（2021年3月22日发布），自由门VPN支持全局代理，默认中国大陆的常用软件不走VPN，可以在菜单里的“设置VPN例外”中修改设置。欢迎大家测试反馈。
 
@@ -44,25 +44,25 @@
 > <p><strong><a href="https://d2m47upzk8888w.cloudfront.net/login-b1.html?i=b7" target="_blank">点此阅读更多……</a></strong></p>
 
 ***
-#### 翻墙软件下载索引（测试版）
+# 翻墙软件下载索引（测试版）
 从易用性，翻墙速度和稳定性以及安全几个角度比较，自由门和无界浏览都属于效果最好的翻墙软件之列。可以根据不同系统平台选用以下适合的：
 
-#### Windows系统翻墙软件：
+### Windows系统翻墙软件：
 
 * <p><a href="https://d2m47upzk8888w.cloudfront.net/leap2.html?i=a1">自由门8.05版下载</a></p>
 * <p><a href="https://d2m47upzk8888w.cloudfront.net/leap2.html?i=a2">无界浏览22.11正式版下载</a></p>
 * <p><a href="https://d2m47upzk8888w.cloudfront.net/leap2.html?i=a4">赛风3最新Windows版下载</a></p>
 
-#### 安卓手机翻墙软件：
+### 安卓手机翻墙软件：
 * <p><a href="https://d2m47upzk8888w.cloudfront.net/leap2.html?i=a3">无界VPN正式版3.0.6/无界一点通5.0正式版下载</a></p>
 * <p><a href="https://d2m47upzk8888w.cloudfront.net/leap2.html?i=a3">自由门VPN 1.6/自由门安卓版5.0下载</a></p>
 * <p><a href="https://d2m47upzk8888w.cloudfront.net/leap2.html?i=a4">赛风3最新安卓版下载</a></p>
 * <p>无界英文手机版1.1.3测试版下载</p>
 
-#### 苹果Mac OS X系统翻墙软件
+### 苹果Mac OS X系统翻墙软件
 * <p>无界苹果MAC测试版 18.07a下载</p>
 
-#### Linux系统翻墙软件
+### Linux系统翻墙软件
 * <p>无界Linux VPN 测试版 18.07a下载</p>
 
 ***
