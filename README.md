@@ -12,7 +12,7 @@
 
 #### Tips:大陆网友如果链接打不开，请尝试下方的["备用下载地址"。](#%E5%A4%87%E7%94%A8%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80)
 * <p><a href="https://d2m47upzk8888w.cloudfront.net/login2.html?i=a1" target="_blank">最新自由门8.05版下载</a></p>
-* <p><a href="https://d2m47upzk8888w.cloudfront.net/login2.html?i=a3" target="_blank">自由门VPN 1.7版/1.6自定义版/无界VPN 3.0.6/自由门安卓版5.0/无界一点通5.0手机翻墙软件下载</a></p>
+* <p><a href="https://d2m47upzk8888w.cloudfront.net/login2.html?i=a3" target="_blank">自由门VPN 1.7版/1.7自定义版/无界VPN 3.0.6/自由门安卓版5.0/无界一点通5.0手机翻墙软件下载</a></p>
 * <p><a href="https://d2m47upzk8888w.cloudfront.net/login2.html?i=a4" target="_blank">更多实用软件和资源下载（赛风3，nthLink VPN）</a></p>
 * <p><a href="https://d2m47upzk8888w.cloudfront.net/login2.html?i=a8" target="_blank">几款安全可靠的免费翻墙软件介绍</a></p>
 
@@ -21,14 +21,14 @@
 无界浏览（网友一般简称为无界）是美国UltraReach Internet Corp.（无界网络公司）创建在GIFT技术平台上的客户端翻墙软件，设计之初主要是为了提供中国互联网用户绕过GFW网络长城的方法，随着软件知名度的提高，到2011年其在世界各地已经有超过11万的用户，并曾被美国著名科技杂志《连线》（Wired）称赞为“网络上最重要的言论自由软体之一”，据哈佛大学2007年的一项研究显示，无界浏览是“效果最好的翻墙工具”。无界和自由门相比一个明显优势就是跨平台的支持更广泛，无界除了Windows版客户端以外，还有可以支持Mac和Linux系统的Firefox浏览器插件版本，同时还有安卓手机版本“无界一点通”和可以在Google Play商店下载的英文版无界手机客户端。目前无界浏览Windows平台最新版本是22.11正式版（2025年3月18日发布），无界安卓手机版最新版本是无界VPN正式版3.0.6（2023年11月18日Google应用商店发布）和无界一点通5.0正式版（2021年5月4日发布）。无界Windows版同样支持WinXP～Win11的全系列Windows系统，运行以后也会自动打开系统自带浏览器连网，如果使用Firefox的无界浏览插件，无需手动配置FF的代理设置就可以直接通过无界翻墙上网。
 
 * <p><a href="https://d2m47upzk8888w.cloudfront.net/login2.html?i=a2" target="_blank">无界浏览最新22.11正式版下载</a></p>
-* <p><a href="https://d2m47upzk8888w.cloudfront.net/login2.html?i=a3" target="_blank">自由门VPN 1.7版/1.6自定义版/无界VPN 3.0.6/自由门安卓版5.0/无界一点通5.0手机翻墙软件下载</a></p>
+* <p><a href="https://d2m47upzk8888w.cloudfront.net/login2.html?i=a3" target="_blank">自由门VPN 1.7版/1.7自定义版/无界VPN 3.0.6/自由门安卓版5.0/无界一点通5.0手机翻墙软件下载</a></p>
 * <p><a href="https://d2m47upzk8888w.cloudfront.net/login2.html?i=a5" target="_blank">绿色爱博电视(iPPOTV)最新版0944C下载</a> --OR-- <a href="#https://d2m47upzk8888w.cloudfront.net/s3-useast-1/login2.html?i=a5https://s3-external-1.amazonaws.com/s3-useast-1/login2.html?i=a5https://s3.amazonaws.com/s3-useast-1/login.html?i=a5https://s3-external-1.amazonaws.com/s3-useast-1/login.html?i=a5" target="_blank">备份传送门</a></p>
 
 ### 备用下载地址
 
 * <p><a href="https://s3.amazonaws.com/freeskye/leap2.html?i=a1" target="_blank">最新自由门8.05版下载</a></p>
 * <p><a href="https://s3.amazonaws.com/freeskye/leap2.html?i=a2" target="_blank">无界浏览最新22.11正式版下载</a></p>
-* <p><a href="https://s3.amazonaws.com/freeskye/leap2.html?i=a3" target="_blank">自由门VPN 1.7版/1.6自定义版/无界VPN 3.0.6/自由门安卓版5.0/无界一点通5.0手机翻墙软件下载</a></p>
+* <p><a href="https://s3.amazonaws.com/freeskye/leap2.html?i=a3" target="_blank">自由门VPN 1.7版/1.7自定义版/无界VPN 3.0.6/自由门安卓版5.0/无界一点通5.0手机翻墙软件下载</a></p>
 * <p><a href="https://s3.amazonaws.com/freeskye/leap2.html?i=a4" target="_blank">更多实用软件和资源下载（赛风3，nthLink VPN）</a></p>
 * <p><a href="https://s3.amazonaws.com/freeskye/leap2.html?i=a8" target="_blank">几款安全可靠的免费翻墙软件介绍</a></p>
 * <p><a href="https://s3.amazonaws.com/freeskye/leap2.html?i=a5" target="_blank">绿色爱博电视(iPPOTV)最新版0944C下载</a> --OR-- <a href="#https://d2m47upzk8888w.cloudfront.net/leap2.html?i=a5https://s3-us-west-2.amazonaws.com/s3-website-uswest-2/leap.html?i=a5http://bbc.freetip.bodive.win/forum.php?i=a5http://s3-website-uswest-2.s3-website-us-west-2.amazonaws.com/leap.html?i=a5" target="_blank">备份传送门</a></p>
