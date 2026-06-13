@@ -2,15 +2,13 @@
 >#### 推荐阅读：[《为什么会有人类》](https://freeskyz.saganlu.win/go/mankind) (2023年1月20日)&emsp;/[《为什么要救度众生》](https://freeskyz.saganlu.win/go/save) (2023年4月17日)&emsp;/[《为什么人类是迷的社会》](https://freeskyz.saganlu.win/go/society) (2024年9月30日)
 >#### 最新更新：自由门VPN 1.7版（2026年1月16日发布）/自由门8.05版（2025年8月17日发布）/无界浏览22.11正式版（2025年3月18日发布）/无界安卓VPN 3.0.6版（2023年11月18日）
 ***
-中国大陆网友如果在电脑上使用最新版自由门联网时出现类似“目前封锁严重，请等待5~15分钟”的提示，可以尝试：(1)从下方最新版软件下载链接打开以后下载自由门或无界的旧版本使用，某些较早的版本通常会比较快找到服务器；(2)按自由门的使用教程更换F或M通道联网，或者使用赛风3、nthLink等其他翻墙软件，一般都可以解决问题。如果下载链接都无法打开，多数情况是因为GFW主动封锁造成的，请等一段时间再试就可以恢复。
+>#### 大陆网友如果链接打不开，请尝试下方的["备用下载地址"。](#%E5%A4%87%E7%94%A8%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80)。如果下载链接都无法打开，多数情况是因为GFW主动封锁造成的，请等一段时间再试就可以恢复。<strong>关注最新资源的同学可点Star关注本仓库（需Github账号）或者收藏网址：<font color="#993300"><a href="https://github.com/sglfree/freesky" target="_blank">https://github.com/sglfree/freesky</a> </font>以获取及时的更新。</strong>
 ***
-<strong>关注最新资源的同学可收藏网址：<font color="#993300"><a href="https://github.com/sglfree/freesky" target="_blank">https://github.com/sglfree/freesky</a> </font>(微信中可用)以获取及时的更新。</strong>
-
 ## 免费翻墙软件简介&下载地址
 
 自由门是由Dynamic Internet Technology Inc.（动态网络技术公司）开发的一款具有高强度加密的免费代理软件，为中国大陆的网络环境优化，可以有效的穿过GFW网络长城的封锁（也称为翻墙，所以自由门也是一种免费翻墙软件），使大陆网友能够正常访问被屏蔽的大量知名海外网站，比如Google搜索和Gmail、Youtube油管、Facebook脸书、Twitter/X推特、中文维基百科和Dropbox等，目前的最新版本是8.05版（2025年8月17日发布）。软件只有一个EXE可执行文件，支持Windows XP到11的全系列Windows系统（包括32位和64位），Linux和苹果Mac OS X系统可以通过Wine或者Windows虚拟机运行自由门。自由门软件使用非常简单便捷，运行以后会自动打开系统自带的IE或Edge浏览器上网（也可以设置成自动打开其他浏览器），如果你使用的是谷歌Chrome/微软Edge这样默认使用系统代理设置的浏览器，会自动通过自由门翻墙上网，无需其他设置，Firefox浏览器只需要在浏览器网络设置里面选上“使用系统代理设置”即可正常使用自由门。自由门安卓VPN目前最新版本是1.7版（2026年1月16日发布），可以在安卓4.4或以上的智能手机和平板电脑上使用，同时保留旧的自由门安卓5.0版（2021年3月22日发布），自由门VPN支持全局代理，默认中国大陆的常用软件不走VPN，可以在菜单里的“设置VPN例外”中修改设置。欢迎大家测试反馈。
 
-#### Tips:大陆网友如果链接打不开，请尝试下方的["备用下载地址"。](#%E5%A4%87%E7%94%A8%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80)
+<strong>Tips:</strong> 中国大陆网友如果在电脑上使用最新版自由门联网时出现类似“目前封锁严重，请等待5~15分钟”的提示，可以尝试：(1)从下方最新版软件下载链接打开以后下载自由门或无界的旧版本使用，某些较早的版本通常会比较快找到服务器；(2)按自由门的使用教程更换F或M通道联网，或者使用赛风3、nthLink等其他翻墙软件，一般都可以解决问题。
 * <p><a href="https://d2m47upzk8888w.cloudfront.net/login2.html?i=a1" target="_blank">最新自由门8.05版下载</a></p>
 * <p><a href="https://d2m47upzk8888w.cloudfront.net/login2.html?i=a3" target="_blank">自由门VPN 1.7版/1.7自定义版/无界VPN 3.0.6/自由门安卓版5.0/无界一点通5.0手机翻墙软件下载</a></p>
 * <p><a href="https://d2m47upzk8888w.cloudfront.net/login2.html?i=a4" target="_blank">更多实用软件和资源下载（赛风3，nthLink VPN）</a></p>
